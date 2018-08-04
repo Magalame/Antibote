@@ -27,7 +27,7 @@ il doit être ensuite remplacer l'ID de ces lignes dans InterfaceCOM.py:
 
 `localserver.serve(['{D172DF78-D3A9-47CF-B462-E4F2DC9C70F5}'])`
 
-- tout object COM doit d'abord être engistré, et peut ensuite être utilisé, d'où les lignes dans InterfaceCOM.py:
+- tout object COM doit d'abord être enregistré, et peut ensuite être utilisé, d'où les lignes dans InterfaceCOM.py:
 
 ```
   if '--register' in sys.argv[1:]  or '--unregister' in sys.argv[1:]:
