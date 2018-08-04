@@ -1,5 +1,6 @@
 # Antibote
 Interface python pour l'API d'Antidote 
+Une version valide d'Antidote est requise
 
 ## API d'Antidote
 
