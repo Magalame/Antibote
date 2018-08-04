@@ -1,6 +1,8 @@
 # Antibote
 Interface python pour l'API d'Antidote 
-Une version valide d'Antidote est requise
+
+Note:Une version valide d'Antidote est requise
+     [la documentation officielle de l'API](https://github.com/Magalame/Antibote/blob/master/Antidote-API_COM.zip)
 
 ## API d'Antidote
 
