@@ -2,7 +2,6 @@
 """
 Created on Mon Jun 18 22:07:16 2018
 
-@author: noudy
 """
 import win32com.server.register,win32com.client
 from pythoncom import com_error

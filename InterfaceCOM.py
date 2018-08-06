@@ -2,7 +2,6 @@
 """
 Created on Mon Jun 18 22:07:16 2018
 
-@author: noudy
 """
 import win32com.server.register,win32com.client
 from win32com.server import localserver
@@ -11,7 +10,7 @@ from pythoncom import com_error
 import sys
 import pickle
 
-from sanstitre0 import Document
+from Outils import Document
 
 class ServeurCorrecteur:
     
